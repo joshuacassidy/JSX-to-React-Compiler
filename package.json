@@ -1,8 +1,8 @@
 {
-  "name": "starwarsapi",
+  "name": "jpiler",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://joshuacassidy.github.io/JpileR",
+  "homepage": "https://joshuacassidy.github.io/jpiler",
   "dependencies": {
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
